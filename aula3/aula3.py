@@ -1,5 +1,5 @@
 """"
-All wirte inside """""" are string
+All write inside """""" are string
 """
 
 # The most common to use ...
