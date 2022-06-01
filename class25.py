@@ -1,12 +1,15 @@
 """
+https://docs.python.org/3/library/stdtypes.html
 Logic Operations
 
-== Equal
-> Bigger that
->= Bigger or Equal a
-< Smaller
-<= Smaller or Equal a
-!= Different
+< - strictly less than
+<= - less than or equal
+> - strictly greater than
+>= - greater than or equal
+== - equal
+!= - not equal
+is - object identity
+is not - negated object identity
 
 """
 
