@@ -10,3 +10,8 @@ Here I'm documenting all study about language Python from zero until advanced...
 - Variables (20 and 21)
 - Input Datas(23)
 - Conditions (IF, ELIF and ELSE) (24)
+- Logic Operations (25)
+- Logic Operations II (AND/OR/NOT/IN) (26)
+- Length method len() (27)
+- Deal with methods to check values (28)
+- Hold space - pass or ... (29)
