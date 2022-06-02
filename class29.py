@@ -6,7 +6,7 @@ We use: pass or ...(Elipsis) like a placeholder
 value = True
 
 if value:
-    # pass
-    ...
+    pass
+    # ...
 else:
     print('Fall here ...')
