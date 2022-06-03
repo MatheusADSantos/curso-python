@@ -15,3 +15,5 @@ Here I'm documenting all study about language Python from zero until advanced...
 - Length method len() (27)
 - Deal with methods to check values (28)
 - Hold space - pass or ... (29)
+- Chalanges (30)
+- Formats strings (32)
