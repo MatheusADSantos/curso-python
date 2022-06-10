@@ -20,5 +20,8 @@ Here I'm documenting all study about language Python from zero until advanced...
 - Management Strings (33)
 - Loop: While(continue and break) and Debug
 - While/Else (counter and accumulator)
+- Iterando sobre lista com for... 
+  - append, insert, pop, del, clear, extend, +, main and max (36/37/38/40)
+- 
 
 # ---- So far has been documented in english ----
