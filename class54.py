@@ -57,12 +57,12 @@ def fizzBuzz(parametro):
     fizz = (valor % 3) == 0
     buzz = (valor % 5) == 0
     if fizz and buzz:
-        return print('\n\nFizz')
-    elif (buzz):
+        return print('\n\nFizzBuzz')
+    if (buzz):
         return print('\n\nBuzz')
-    elif (fizz):
-        print('\n\nFizzBuzz')
-    else:
-        return print('\n\nNúmero Inválido')
+    if (fizz):
+        print('\n\nFizz')
+
+    return print('\n\nNúmero Inválido')
 
 fizzBuzz(15)
